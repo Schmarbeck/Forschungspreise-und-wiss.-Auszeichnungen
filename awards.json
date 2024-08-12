@@ -1,0 +1,27 @@
+[
+  {
+    "Bezeichnung_des_Preises": "Preis 1",
+    "Preisverleiher": "Organisation A",
+    "Kategorie_des_Preisverleihers": "Wissenschaftlicher Sektor",
+    "Webseite": "https://example1.com",
+    "Gegenstand_des_Preises": "Forschung",
+    "Art_des_Preises_oder_der_Auszeichnung": "Wissenschaftspreis",
+    "Förderung": "Ja",
+    "Fachgebiet_Selbstbezeichnung": "Beschreibung des Fachgebietes",
+    "Preis_für_Personen_in_einem_frühen_Karrierestadium": "Ja",
+    "description": "Beschreibung des Preises.",
+    "Dotierung_des_Preises": 1000,
+  },
+  {
+    "Bezeichnung_des_Preises": "Preis 2",
+    "Preisverleiher": "Organisation B",
+    "Kategorie_des_Preisverleihers": "Wirtschaftlicher Sektor",
+    "Webseite": "https://example1.com",
+    "Gegenstand_des_Preises": "Lehre",
+    "Art_des_Preises_oder_der_Auszeichnung": "Auszeichnung",
+    "Förderung": "Nein",
+    "Fachgebiet_Selbstbezeichnung": "Beschreibung des Fachgebietes",
+    "Preis_für_Personen_in_einem_frühen_Karrierestadium": "Nein",
+    "Dotierung_des_Preises": 500,
+  }
+]
