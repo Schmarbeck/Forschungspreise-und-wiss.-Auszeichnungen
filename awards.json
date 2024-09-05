@@ -1,5 +1,8 @@
 [
   {
+  "version": "1.0",
+},
+  {
     "Bezeichnung_des_Preises": "Preis 1",
     "Preisverleiher": "Organisation A",
     "Kategorie_des_Preisverleihers": "Wissenschaftlicher Sektor",
