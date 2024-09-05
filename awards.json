@@ -1,8 +1,7 @@
 [
   {
-    "ID": "1",
-    "Bezeichnung_des_Preises": "Preis 3",
-    "Preisverleiher": "Organisation C",
+    "Bezeichnung_des_Preises": "Preis 1",
+    "Preisverleiher": "Organisation A",
     "Kategorie_des_Preisverleihers": "Wissenschaftlicher Sektor",
     "Webseite": "https://example1.com",
     "Gegenstand_des_Preises": "Forschung",
@@ -13,7 +12,6 @@
     "Dotierung_des_Preises": 1000,
   },
   {
-    "ID": "2",
     "Bezeichnung_des_Preises": "Preis 2",
     "Preisverleiher": "Organisation B",
     "Kategorie_des_Preisverleihers": "Wirtschaftlicher Sektor",
